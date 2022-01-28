@@ -45,7 +45,7 @@ Objectives
     • In our model we have used JetPack version 4.6 which is the latest production release and supports all Jetson modules.
 ## Jetson Nano 2gb
 
-![Jetson Nano](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Jetson Nano](https://github.com/f-ate/Helmet-Detection/blob/main/IMG_20220125_115121.jpg)
 
 
 ## Proposed System
@@ -173,6 +173,13 @@ source '0' for webcam
 ```
 ## Demo
 Insert gif or link to demo
+
+
+https://user-images.githubusercontent.com/97509895/151496564-0dd320bd-3e2f-419c-886e-44eeded33092.mp4
+
+
+
+
 ## Advantages
 
     • Helmet detection system will be of great help in minimizing the injuries that occur due to an accident.
