@@ -172,10 +172,9 @@ source '0' for webcam
 !python detect.py --weights best.pt --img 416 --conf 0.1 --source 0
 ```
 ## Demo
-Insert gif or link to demo
-
 
 https://user-images.githubusercontent.com/97509895/151496564-0dd320bd-3e2f-419c-886e-44eeded33092.mp4
+
 
 
 
